@@ -37,6 +37,7 @@ To print output:./blazersh; ./myprog1; ./myprog2;
 
 Screenshots:
 <img width="1280" alt="demo1" src="https://user-images.githubusercontent.com/46456051/53303206-17352f00-383e-11e9-9261-f973b18120c2.png">
+<img width="1280" alt="demo2" src="https://user-images.githubusercontent.com/46456051/53303245-a7737400-383e-11e9-915e-631c590d0402.png">
 
 CONTACT ME:
 

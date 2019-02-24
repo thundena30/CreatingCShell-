@@ -35,6 +35,9 @@ RUNNING THE TESTS:
 
 To print output:./blazersh; ./myprog1; ./myprog2;
 
+Screenshots:
+<img width="1280" alt="demo1" src="https://user-images.githubusercontent.com/46456051/53303206-17352f00-383e-11e9-9261-f973b18120c2.png">
+
 CONTACT ME:
 
 thundena@uab.edu

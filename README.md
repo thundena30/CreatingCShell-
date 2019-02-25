@@ -47,6 +47,7 @@ The second screenshot specifically demonstrated the execution of myprogram, in w
 
 The third screenshot depicted the compilation and execution of blazersh.c. 
 
+<img width="1280" alt="demofinal3-blazersh" src="https://user-images.githubusercontent.com/46456051/53354520-4c548680-38fd-11e9-8342-d7d5bfc22482.png">
 
 CONTACT ME:
 

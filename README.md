@@ -25,19 +25,18 @@ ACKNOWLEGMENT: https://www.geeksforgeeks.org/making-linux-shell-c/
 
 PREREQUISITES:
 
-FileZilla 2 (transfer files to ssh client); blazersh.c; myprog1.c; myprog2.c; Linux Terminal (UAB)
+FileZilla 2 (transfer files to ssh client); blazersh.c; myprog1.c; myprog2.c; myprogram.c;  Linux Terminal (UAB)
 
 INSTRUCTIONS:
 
-To compile : gcc -o blazersh blazersh.c; gcc -o myprog1 myprog1.c; gcc -o myprog2 myprog2.c;
+To compile : gcc -o blazersh blazersh.c; gcc -o myprog1 myprog1.c; gcc -o myprog2 myprog2.c; gcc -o myprogram myprogram.c 
 
 RUNNING THE TESTS:
 
-To print output:./blazersh; ./myprog1; ./myprog2;
+To print output:./blazersh; ./myprog1; ./myprog2; ./myprogram
 
 Screenshots:
-<img width="1280" alt="demo1" src="https://user-images.githubusercontent.com/46456051/53303206-17352f00-383e-11e9-9261-f973b18120c2.png">
-<img width="1280" alt="demo2" src="https://user-images.githubusercontent.com/46456051/53303245-a7737400-383e-11e9-915e-631c590d0402.png">
+
 
 CONTACT ME:
 

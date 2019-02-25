@@ -45,9 +45,11 @@ The second screenshot specifically demonstrated the execution of myprogram, in w
 
 <img width="1280" alt="demofinal2-input output" src="https://user-images.githubusercontent.com/46456051/53352793-d7338200-38f9-11e9-96e8-61539682af32.png">
 
-The third screenshot depicted the compilation and execution of blazersh.c. 
+The third and fourth screenshot depicted the compilation and execution of blazersh.c including the following internal commands: eniron, set, list, cd, help, and quit. 
 
 <img width="1280" alt="demofinal3-blazersh" src="https://user-images.githubusercontent.com/46456051/53354520-4c548680-38fd-11e9-8342-d7d5bfc22482.png">
+
+<img width="1280" alt="demofinal4-blazersh2" src="https://user-images.githubusercontent.com/46456051/53354555-655d3780-38fd-11e9-924b-8920615d120e.png">
 
 CONTACT ME:
 

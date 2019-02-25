@@ -37,9 +37,15 @@ To print output:./blazersh; ./myprog1; ./myprog2; ./myprogram
 
 Screenshots:
 
+The first screenshot demonstrated the following commands: pwd, ls, cd, and the compilation of programs: myprog1.c, myprog2.c.,myprogram.c, and blazersh.c. The output for myprog1 was Hello World! The output for myprog2 was entering a number of elements in the keyboard.
+
 <img width="1280" alt="demofinal1-myprog1 myprog2" src="https://user-images.githubusercontent.com/46456051/53352724-b66b2c80-38f9-11e9-8f8f-ff05f8c00c84.png">
 
+The second screenshot specifically demonstrated the execution of myprogram, in which, one has input.txt and out.txt. The shell program strongly supported I/O redirection with command-line arguments : myprogram 1 2 < input.txt > out.txt. 
+
 <img width="1280" alt="demofinal2-input output" src="https://user-images.githubusercontent.com/46456051/53352793-d7338200-38f9-11e9-96e8-61539682af32.png">
+
+The third screenshot depicted the compilation and execution of blazersh.c. 
 
 <img width="1280" alt="demofinal3-blazershell" src="https://user-images.githubusercontent.com/46456051/53352844-f4685080-38f9-11e9-88bb-3c0fab6c5c7d.png">
 
